@@ -10,7 +10,7 @@ Furthermore, the possibility of applying MARL, and in particular the Q-learning 
 ### Core files
 - hard_coded_ants.py : implementation of the ant agent as a class and of a simulation in which the agents are hard-coded to    perform the actions that they are supposed to do at any moment in time.
 - iql.py : implementation of the Q-learning algorithm in an independent learning setting.
-- ants.iql.py : training, evaluation and simulation of the learning ants.
+- ants_iql.py : training, evaluation and simulation of the learning ants.
 
 ### Configuration files
 - config/env_visualizer-params.json : parameters relating to the visualization of the simulation (FPS, font size, agent size, ...).
