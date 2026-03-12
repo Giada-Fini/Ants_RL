@@ -23,3 +23,7 @@ Furthermore, the possibility of applying MARL, and in particular the Q-learning 
 - *runs/weights* : collection of .npy files containing the weights obtained from each training run performed.
 - *runs/train* : collection of folders, each of which containing the training results (.csv file) and a summary of the parameters (.txt file) of a run.
 - *runs/eval* : collection of folders, each of which containing the evauluation results (.csv file) and a summary of the parameters (.txt file) of a run.
+
+## Author
+
+This project has been carried out independently for the Distributed Artificial Intelligence exam.
