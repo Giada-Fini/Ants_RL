@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a simulation environment for ant foraging obtained from a pre-existing one focused on slime mold aggregation.
 
-Furthermore, the possibility of applying MARL, and in particular the Q-learning algorithm in an independent learning setting, to the topic has been explored.
+Furthermore, the possibility of applying MARL to the topic has been explored, focusing on the implementation of the Q-learning algorithm in an independent learning setting.
 
 ### Simulation details
 
