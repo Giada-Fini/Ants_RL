@@ -11,7 +11,7 @@ Furthermore, the possibility of applying MARL to the topic has been explored, fo
 The environment is represented by a grid of square patches, each one capable of containing:
 
 - Agents: artificial counterpart of real ants
-- Food pheromone: substance released by the agents, which diffusion and evaporation is managed by the environment itself
+- Food pheromone: substance released by the agents, of which diffusion and evaporation are managed by the environment itself
 - Nest pheromone: intrinsic substance of the environment radiating from the nest
 - Food: nourishment particles that the agents are supposed to bring to the nest
 
@@ -31,7 +31,7 @@ At each time step, agents can perform one of the following actions:
 ## Project structure
 
 ### Core files
-- `hard_coded_ants.py` : implementation of the ant agent as a class and of a simulation in which the agents are hard-coded to    perform the actions that they are supposed to do at any moment in time.
+- `hard_coded_ants.py` : implementation of the ant agent as a class and of a simulation in which the agents are hard-coded to perform the actions that they are supposed to do at any moment in time.
 - `iql.py` : implementation of the Q-learning algorithm in an independent learning setting.
 - `ants_iql.py` : training, evaluation and simulation of the learning ants.
 
